@@ -1,0 +1,10 @@
+PyQt6==6.5.3
+PyQt6-Qt6==6.5.3
+PyQt6-sip==13.5.2
+requests==2.31.0
+numpy==1.25.2
+# 音声合成用
+torch==2.1.0
+torchaudio==2.1.0
+scipy==1.11.4
+# ファイルドラッグアンドドロップ用 
